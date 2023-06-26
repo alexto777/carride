@@ -1,0 +1,8 @@
+.disponibilidad {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+.barra-busqueda-contenedor{
+  display: flex;
+}

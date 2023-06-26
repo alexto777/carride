@@ -1,0 +1,8 @@
+.conteo {
+  padding: 11px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 0%;
+  display: flex;
+}

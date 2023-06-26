@@ -1,0 +1,19 @@
+@import './reset.scss';
+
+:root {
+  --primary-color: #49a178;
+  --primary-color-hover: #f0572d;
+  --second-color: #01602a;
+  --text-color: #111;
+  --text-inverted-color: #f0f0f0;
+  --bg-color: #ffffff;
+
+  // @media (prefers-color-scheme: dark) {
+  //   --primary-color: #49a178;
+  //   --primary-color-hover: #37ad76;
+  //   --text-color: #f0f0f0;
+  //   --text-inverted-color: #1c1c1c;
+  //   --bg-color: #111;
+
+  // }
+}
